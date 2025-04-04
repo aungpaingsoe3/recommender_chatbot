@@ -20,7 +20,7 @@
 - Recommends the best phone plans based on user input along with total monthly cost
 - <u>Error Handling Scenarios</u>:
   - When user enters unclear or unrelated answers at any point in the interaction, the chatbot prints out the message:
-    ```I am sorry I could not understand your request.```, and requests the user to enter the response again.
+    ```I am sorry I could not understand your response.```, and requests the user to enter the response again.
   - When the user wants to stop using the chatbot at any point, the user enters ```quit``` and the chatbot will be
     terminated.
 
